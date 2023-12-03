@@ -1,0 +1,19 @@
+{
+  "orgName": "workshops",
+  "adminEmail": "zeb0x01@wearehackerone.com",
+  "edition": "Developer",
+  "description": "app building workshop",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": false
+      }
+    }
+  }
+}
