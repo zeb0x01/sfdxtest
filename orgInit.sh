@@ -1,1 +1,1 @@
-sfdx env list --all
+sfdx force:org:list
