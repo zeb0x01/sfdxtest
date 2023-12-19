@@ -4,9 +4,9 @@
 # # sfdx config:get --target-org hub
 # # sfdx force:config:list --configfile /app/.sf/config.json 
 # sfdx force:mdapi:retrieve -o hub
+force:apex:log:list --target-org hub
 
-
-sfdx auth:list
-sfdx force:org:list
-sfdx force:user:list --target-org hub
-sfdx force:user:list --target-org deploybot@dxhub.org
+# sfdx auth:list
+# sfdx force:org:list
+# sfdx force:user:list --target-org hub
+# sfdx force:user:list --target-org deploybot@dxhub.org
