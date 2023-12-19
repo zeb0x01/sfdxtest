@@ -1,4 +1,4 @@
-sfdx force:apex:log:list
-sfdx config:list
+sfdx force:apex:log:list --target-org hub 
+sfdx config:list --target-org hub 
 sfdx force:apex:log:get --target-org hub 
-sfdx config:get
+sfdx config:get --target-org hub
