@@ -7,6 +7,7 @@
 sfdx plugins
 
 sfdx config list --target-org hub
+sfdx apex list log --target-org hub
 # sfdx auth:list
 # sfdx force:org:list
 # sfdx force:user:list --target-org hub
