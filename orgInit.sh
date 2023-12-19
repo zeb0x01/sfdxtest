@@ -4,7 +4,7 @@
 # # sfdx config:get --target-org hub
 # # sfdx force:config:list --configfile /app/.sf/config.json 
 # sfdx force:mdapi:retrieve -o hub
-sfdx org display --target-org hub
+sfdx org display --target-org hub --verbose
 # sfdx auth:list
 # sfdx force:org:list
 # sfdx force:user:list --target-org hub
