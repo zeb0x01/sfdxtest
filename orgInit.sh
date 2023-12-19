@@ -1,1 +1,1 @@
-sfdx auth:list
+sfdx force:apex:log:get
