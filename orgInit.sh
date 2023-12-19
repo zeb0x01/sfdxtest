@@ -6,5 +6,5 @@
 # sfdx force:mdapi:retrieve -o hub
 
 
-sfdx auth:list -o hub
-sfdx force:org:list -o hub
+sfdx auth:list --target-org hub
+sfdx force:org:list --target-org hub
