@@ -5,7 +5,6 @@
 # # sfdx force:config:list --configfile /app/.sf/config.json 
 # sfdx force:mdapi:retrieve -o hub
 sfdx force:apex:log:list --target-org hub
-sf version
 sfdx version
 # sfdx auth:list
 # sfdx force:org:list
