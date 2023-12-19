@@ -6,6 +6,7 @@
 # sfdx force:mdapi:retrieve -o hub
 sfdx force:apex:log:list --target-org hub
 sf version
+sfdx version
 # sfdx auth:list
 # sfdx force:org:list
 # sfdx force:user:list --target-org hub
