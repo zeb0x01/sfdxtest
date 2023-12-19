@@ -7,3 +7,4 @@
 
 
 sfdx auth:list -o hub
+sfdx force:org:list -o hub
