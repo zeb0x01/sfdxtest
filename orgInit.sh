@@ -1,2 +1,1 @@
-sfdx force:user:display
-sfdx force:user:display
+sfdx force:user:list --target-org deploybot@dxhub.org
