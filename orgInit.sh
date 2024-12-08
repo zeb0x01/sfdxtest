@@ -9,4 +9,4 @@
 # sfdx force:org:list
 # sfdx force:user:list --target-org hub
 # sfdx force:user:list --target-org deploybot@dxhub.org
-sf org list users
+sf org list users --target-org deploybot@dxhub.org
