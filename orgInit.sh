@@ -9,5 +9,4 @@
 # sfdx force:org:list
 # sfdx force:user:list --target-org hub
 # sfdx force:user:list --target-org deploybot@dxhub.org
-sf package list --target-dev-hub deploybot@dxhub.org
-sf package list --target-dev-hub DevHub
+sf package list --target-dev-hub deploybot@dxhub.org & ls
