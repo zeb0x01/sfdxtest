@@ -1,1 +1,1 @@
-sfdx plugins install x
+sf org list --verbose
