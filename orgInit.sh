@@ -10,4 +10,4 @@
 # sfdx force:user:list --target-org hub
 # sfdx force:user:list --target-org deploybot@dxhub.org
 # sfdx login:functions:jwt --clientid 3MVG9CEn_O3jvv0zQGZ3RC8AeiKOvTHGF1AyKTPEhceKFjU7hrwn1JO3h.JnCWqOUo.ZQ9iGALbY1Fy_taX3y --username deploybot@dxhub.org --keyfile /app/tmp/server.key
-sfdx org list
+sfdx org list --verbose
